@@ -1,10 +1,13 @@
-body{
-  background: lightblue 
-  size: auto; 
-} 
-#header {
+#content {
+  background: palevioletred; 
+}
+ 
+#header , #footer {
    text-align: center, top;
    background: red,;
    position: top,fixed; 
 
+}
+#body {
+  background: rosybrown;
 }
