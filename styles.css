@@ -1,0 +1,10 @@
+body{
+  background: lightblue 
+  size: auto; 
+} 
+#header {
+   text-align: center, top;
+   background: red,;
+   position: top,fixed; 
+
+}

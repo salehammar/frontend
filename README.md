@@ -1,2 +1,3 @@
-# frontend
-working on html and css and javascript
+# Project 0
+
+Web Programming with Python and JavaScript
